@@ -1,2 +1,3 @@
 # dwrarelootplugin
-Discworld MUD Mushclient LUA plugin for Werks rare item delivery missions.
+Discworld MUD MushClient LUA plugin for Werks rare item delivery missions.
+[Plugin:] https://johnmathys.github.io/dwrarelootplugin/Rareloot_v1.02.xml
